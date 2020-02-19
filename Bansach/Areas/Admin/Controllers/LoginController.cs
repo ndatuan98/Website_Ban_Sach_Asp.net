@@ -42,6 +42,7 @@ namespace Bansach.Areas.Admin.Controllers
                 {
                     //so sánh và tìm tên tài khoản
                     var result = db.Admins.SingleOrDefault(x => x.TaiKhoan == model);
+                    
                     //trả về dữ liệu tương ứng trong View
                     return View(result);
                 }             
