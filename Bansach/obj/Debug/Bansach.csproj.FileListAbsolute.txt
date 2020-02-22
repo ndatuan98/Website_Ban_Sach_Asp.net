@@ -1,0 +1,122 @@
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\ApplicationInsights.config
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\roslyn\csc.exe
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\roslyn\vbc.exe
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\roslyn\VBCSCompiler.exe
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\Bansach.dll.config
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\Bansach.dll
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\Bansach.pdb
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\Antlr3.Runtime.dll
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\EntityFramework.dll
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\EntityFramework.SqlServer.dll
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\Microsoft.AI.Web.dll
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\Newtonsoft.Json.dll
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\PagedList.dll
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\PagedList.Mvc.dll
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\System.Web.Helpers.dll
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\System.Web.Mvc.dll
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\System.Web.Optimization.dll
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\System.Web.Razor.dll
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\System.Web.WebPages.dll
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\System.Web.WebPages.Razor.dll
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\WebGrease.dll
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\EntityFramework.xml
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\EntityFramework.SqlServer.xml
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\Microsoft.AI.Web.xml
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\PagedList.xml
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\PagedList.Mvc.xml
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\System.Web.Helpers.xml
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\System.Web.Mvc.xml
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\System.Web.Optimization.xml
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\System.Web.Razor.xml
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\System.Web.WebPages.xml
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\System.Web.WebPages.Razor.xml
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\Antlr3.Runtime.pdb
+C:\Users\ndatu\Desktop\New folder\Bansach\bin\Newtonsoft.Json.xml
+C:\Users\ndatu\Desktop\New folder\Bansach\obj\Debug\Bansach.csprojAssemblyReference.cache
+C:\Users\ndatu\Desktop\New folder\Bansach\obj\Debug\Bansach.csproj.CopyComplete
+C:\Users\ndatu\Desktop\New folder\Bansach\obj\Debug\Bansach.dll
+C:\Users\ndatu\Desktop\New folder\Bansach\obj\Debug\Bansach.pdb
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\roslyn\csc.exe
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\roslyn\vbc.exe
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\roslyn\VBCSCompiler.exe
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\Bansach.dll.config
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\Bansach.dll
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\Bansach.pdb
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\Antlr3.Runtime.dll
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\EntityFramework.dll
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\EntityFramework.SqlServer.dll
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\Microsoft.AI.Web.dll
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\Newtonsoft.Json.dll
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\PagedList.dll
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\PagedList.Mvc.dll
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\System.Web.Helpers.dll
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\System.Web.Mvc.dll
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\System.Web.Optimization.dll
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\System.Web.Razor.dll
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\System.Web.WebPages.dll
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\System.Web.WebPages.Razor.dll
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\WebGrease.dll
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\EntityFramework.xml
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\EntityFramework.SqlServer.xml
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\Microsoft.AI.Web.xml
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\PagedList.xml
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\PagedList.Mvc.xml
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\System.Web.Helpers.xml
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\System.Web.Mvc.xml
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\System.Web.Optimization.xml
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\System.Web.Razor.xml
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\System.Web.WebPages.xml
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\System.Web.WebPages.Razor.xml
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\Antlr3.Runtime.pdb
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\bin\Newtonsoft.Json.xml
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\obj\Debug\Bansach.csproj.CopyComplete
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\obj\Debug\Bansach.dll
+C:\Users\ndatu\Documents\GitHub\Website_Ban_Sach_Asp\Bansach\obj\Debug\Bansach.pdb
